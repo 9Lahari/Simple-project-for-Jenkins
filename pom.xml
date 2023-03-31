@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Simple-project-for-Jenkins</artifactId>
+    <artifactId>Simple-project-for_Jenkins</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
