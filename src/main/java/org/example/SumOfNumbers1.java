@@ -8,3 +8,4 @@ public class SumOfNumbers1 {
         System.out.println("The sum of numbers is: "+sum);
     }
 }
+
